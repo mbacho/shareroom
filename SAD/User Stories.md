@@ -15,3 +15,6 @@ I want to free up space but not lose a certain series. How do I find out who can
 
 ## Scenario 4
 I'm bored and I want to look at what cool series/movies/games my friends are into
+
+## Scenario 5
+I want to free up space but not lose a certain series. How do I find out who else has it and ask them not to delete it while I delete mine.
