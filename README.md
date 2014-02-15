@@ -10,4 +10,4 @@ System Analysis and Design can be found in the [SAD](https://github.com/mbacho/s
 
 System code is located in the [shareroom](https://github.com/mbacho/shareroom/tree/master/shareroom) folder
 
-Recommended workflow is [github workflow](http://scottchacon.com/2011/08/31/github-flow.html)
+Recommended workflow is [git flow](http://nvie.com/posts/a-successful-git-branching-model/)
