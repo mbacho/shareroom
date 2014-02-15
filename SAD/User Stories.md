@@ -12,3 +12,6 @@ I have a cool new series/movie/game and I want to brag to everyone i know
 
 ## Scenario 3
 I want to free up space but not lose a certain series. How do I find out who can take it before I delete it
+
+## Scenario 4
+I'm bored and I want to look at what cool series/movies/games my friends are into
