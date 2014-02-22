@@ -7,3 +7,4 @@
 * Can mention that I've deleted a series/movie/game
 * Can specify the video quality of a series/movie I have
 * Can get notified when my friends add new stuff or change/delete their stuff
+* Can rate other users according to the quality of movies/stuff they share
