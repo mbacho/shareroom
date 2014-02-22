@@ -4,3 +4,4 @@
 - [mbacho](http://github.com/mbacho)
 - [collo](http://github.com/collo)
 - [caninemwenja](http://github.com/caninemwenja)
+- [oguya](http://github.com/oguya)
